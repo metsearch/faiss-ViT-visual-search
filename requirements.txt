@@ -1,0 +1,10 @@
+numpy
+matplotlib
+click
+pyzmq
+uvicorn
+python-multipart
+torch
+faiss-cpu
+sentence-transformers
+gradio
